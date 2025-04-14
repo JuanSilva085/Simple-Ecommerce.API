@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>JS Store</title>
+    <link rel="stylesheet" href="import.css" />
+    <script src="script.js"></script>
+    
+  </head>
+  <body>
+    <nav>
+      <div class="logo">JS Store</div>
+      <input type="text" id="pesquisa" placeholder="Buscar produtos..." oninput="filtrarProdutos()">
+      <a href="carrinho.html" class="carrinho-link" onclick="abrirCarrinho()">🛒 Carrinho (<span id="quantidade-carrinho">0</span>)</a>
+      </div>
+    </nav>
+    
+    <main>
+      <br>
+      <h1>Produtos</h1>
+      <div id="produtos" class="produtos-container"></div>
+  
+<button id="botao-finalizar-compra" onclick="finalizarCompra()">Finalizar Compra</button>
+</main>
+
+<footer>
+  <p>Juan Silva | Todos os direitos reservados © 2025</p>
+</footer>
+
+
+</body>
+</html>

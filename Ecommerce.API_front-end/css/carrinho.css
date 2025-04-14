@@ -1,0 +1,124 @@
+body {
+  background-color: #070710;
+  color: #ffffff;
+  font-family: 'Segoe UI', sans-serif;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1f1f1f;
+  padding: 10px 20px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+}
+
+nav .logo a{
+  font-size: 20px;
+  font-weight: bold;
+  color: #00d8ff;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+nav .voltar a {
+  font-size: 20px;
+  font-weight: bold;
+  color: #00d8ff;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.carrinho-item {
+  background-color: #2c2c3e;
+  padding: 1rem 1.5rem;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease;
+}
+
+.nome {
+  font-weight: bold;
+  font-size: 1.1rem;
+  margin-bottom: 5px;
+}
+
+.preco {
+  color: #b3b3cc;
+  font-size: 0.95rem;
+}
+
+.remover {
+  background-color: #d63031;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  font-weight: 500;
+}
+
+.remover:hover {
+  background-color: #ff7675;
+}
+
+
+#botao-finalizar-compra {
+  background-color: #00b894;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 24px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  #produtos {
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 15px;
+  }
+  
+  .carrinho-item {
+    flex-direction: column;
+    align-items: flex-tart;
+  }
+  
+  .remover {
+    margin-top: 10px;
+    align-self: flex-end;
+  }
+}
+
+#botao-finalizar-compra {
+  background-color: #2ecc71;
+  color: white;
+  font-size: 18px;
+  border-radius: 8px;
+  cursor: pointer;
+  z-index: 1000;
+  transition: all 1s ease;
+}
+
+#botao-finalizar-compra:hover {
+  background-color: #1a6c3c; 
+  transform: scale(1.05);
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #222;
+  color: #fff;
+  font-size: 14px;
+  margin-top: 40px;
+}
