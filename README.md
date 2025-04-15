@@ -22,3 +22,26 @@ Um projeto de um ecommerce simples com front-end em HTML/CSS/JS, back-end em ASP
 ✅ Endpoints para listagem de produtos, carrinho e operações de adicionar/remover
 
 ✅ Integração com a API da Stripe para simular uma cobrança real com cartão de crédito
+
+<hr>
+
+🛠️ Tecnologias Utilizadas
+
+Front-end
+
+<img align="left" width="50px" style="padding-right: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>  
+
+<img align="left" width="50px" style="padding-right: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<img align="left" width="50px" style="padding-right: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<br>
+
+
+Back-end
+
+ASP.NET Core (C#)
+
+API REST
+
+Stripe.Net (SDK da Stripe)
