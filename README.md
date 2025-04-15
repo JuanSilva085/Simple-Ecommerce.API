@@ -40,8 +40,9 @@ Front-end
 
 Back-end
 
-ASP.NET Core (C#)
+<img align="left" width="50px" style="padding-right: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 
-API REST
+<img align="left" width="50px" style="padding-right: 90px;" src="https://dfdmyvckxgqn5.cloudfront.net/_app/immutable/assets/building-elegant-rest-apis.d8f4cbc6.jpg" />
 
-Stripe.Net (SDK da Stripe)
+<img align="left" width="50px" style="padding-right: 90px;" src="https://i.ytimg.com/vi/BTG6EmDrdqs/maxresdefault.jpg" />
+
