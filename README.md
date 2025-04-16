@@ -65,12 +65,13 @@ Gerenciar chaves de API de teste
 
 # 🚀 Como Rodar o Projeto
 
-1. Back-end (C#)
+1. 🧠 Back-end (C#)
 - cd Ecommerce.API
 - dotnet restore
 - dotnet run
 
-2. Front-end
+2. 🖥️ Front-end
+   
 Basta abrir index.html no seu navegador.
 
 Certifique-se de que o front está configurado para consumir os endpoints corretos.
