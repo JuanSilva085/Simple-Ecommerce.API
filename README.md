@@ -65,23 +65,23 @@ Gerenciar chaves de API de teste
 
 # 🚀 Como Rodar o Projeto
 
-1. 🧠 Back-end (C#)
+### 1. 🧠 Back-end (C#)
 - cd Ecommerce.API
 - dotnet restore
 - dotnet run
 
-2. 🖥️ Front-end
+### 2. 🖥️ Front-end
    
-Basta abrir index.html no seu navegador.
+- Abra o index.html no seu navegador.
 
-Certifique-se de que o front está configurado para consumir os endpoints corretos.
+### 3. Pagamento com Stripe
 
-3. Pagamento com Stripe
-Crie uma conta no Stripe
+- Crie uma conta no Stripe
 
-Pegue suas chaves de teste (pública e secreta)
+- Pegue as chaves de teste (pública e secreta)
 
-Configure no seu appsettings.json:
+- Configure no seu appsettings.json:
+
 "Stripe": {
   "SecretKey": "chave_secreta",
   "PublishableKey": "chave_publica"
