@@ -1,6 +1,6 @@
-# 🛒 Loja Virtual - Front-end + Back-end C# + Integração com Stripe
-
 Um projeto de um ecommerce simples com front-end em HTML/CSS/JS, back-end em ASP.NET Core (C#) e integração com a API do Stripe para simular pagamentos. 
+
+# 🛒 Loja Virtual - Front-end + Back-end C# + Integração com Stripe
 
 # ✨ Funcionalidades
 🖥️ Front-end                                                                                                                                                                                
