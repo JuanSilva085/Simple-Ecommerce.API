@@ -77,11 +77,11 @@ Gerenciar chaves de API de teste
 
 - Pegue as chaves de teste (pública e secreta)
 
-- Configure no seu appsettings.json:
+- Configure no appsettings.json:
 
 "Stripe": {
-  "SecretKey": "chave_secreta",
-  "PublishableKey": "chave_publica"
+  "SecretKey": "SuaChave_secreta",
+  "PublishableKey": "SuaChave_publica"
 }
 
 <hr>
