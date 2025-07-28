@@ -3,7 +3,7 @@ Um projeto de um ecommerce simples com front-end em HTML/CSS/JS, back-end em ASP
 # 🛒 Loja Virtual - Front-end + Back-end C# + Integração com Stripe
 
 # ✨ Funcionalidades
-🖥️ Front-end                                                                                                                                                                                
+## 🖥️ Front-end                                                                                                                                                                               
 
 ✅ Listagem de produtos com imagens e preços
 
@@ -15,9 +15,8 @@ Um projeto de um ecommerce simples com front-end em HTML/CSS/JS, back-end em ASP
 
 <hr>
 
-🧠 Back-end (C#)                                                                                                                                                                            
-
-✅ API REST construída em ASP.NET Core
+## 🧠 Back-end (C#)                                                                                                                                                                            
+✅ API REST ASP.NET Core
 
 ✅ Endpoints para listagem de produtos, carrinho e operações de adicionar/remover
 
@@ -49,13 +48,11 @@ Back-end
 
 # 💳 Pagamento com Stripe
 
-A API da Stripe foi integrada ao back-end para:
+A API da Stripe foi integrada ao back-end para o seguinte:
 
 Simular pagamentos reais
 
 Gerar sessões de checkout
-
-Utilizar Webhooks (se configurado)
 
 Gerenciar chaves de API de teste
 
