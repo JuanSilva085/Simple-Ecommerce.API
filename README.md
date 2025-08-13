@@ -5,22 +5,18 @@ Um projeto de um ecommerce simples com front-end em HTML/CSS/JS, back-end em ASP
 # ✨ Funcionalidades
 ## 🖥️ Front-end                                                                                                                                                                               
 
-✅ Listagem de produtos com imagens e preços
+- Listagem de produtos com imagens e preços
 
-✅ Adição e remoção de itens ao carrinho
-
-✅ Atualização dinâmica do carrinho (inclusive o número de itens no menu)
-
-✅ Condicional para exibir o botão "Remover" apenas para itens já adicionados
+- Adição e remoção de itens ao carrinho
 
 <hr>
 
 ## 🧠 Back-end (C#)                                                                                                                                                                            
-✅ API REST ASP.NET Core
+- API REST ASP.NET Core
 
-✅ Endpoints para listagem de produtos, carrinho e operações de adicionar/remover
+- Endpoints para listagem de produtos, carrinho e operações de adicionar/remover
 
-✅ Integração com a API da Stripe para simular uma cobrança real com cartão de crédito
+- Integração com a API da Stripe para simular uma cobrança real com cartão de crédito
 
 <hr>
 
