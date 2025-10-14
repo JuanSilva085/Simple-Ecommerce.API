@@ -87,10 +87,6 @@ Gerenciar chaves de API de teste
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ea881efc-927f-461e-b03f-8bf919760129" width="700" />
   <br><br>
-  <img src="https://github.com/user-attachments/assets/80f749b1-5e6b-4e52-82f6-b4131bf18a85" width="700" />
-  <br><br>
-  <img src="https://github.com/user-attachments/assets/dbf660d0-2172-4936-8a6f-f63cf71f5732" width="700" />
-  <br><br>
   <img src="https://github.com/user-attachments/assets/d28cdc35-3419-4ef6-ad0a-947f2572732d" width="700" />
 </p>
 
